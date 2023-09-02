@@ -1,0 +1,21 @@
+{
+  "name": "gina",
+  "version": "1.0.0",
+  "description": "basic backend + frontend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BnjmnZmmrmn/ordicool"
+  },
+  "author": "ben",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  }
+}
